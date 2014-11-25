@@ -1,0 +1,8 @@
+% Definiera alla kallor (reservoarer) och sankor (oppna kranar).
+% For varje rad anges nodnummer
+% på kalla/sanka foljt av trycket (oppen kran p=0, Reservoar p>0)
+% Definiera trycket i heltal. Stangda kranar anges ej.
+1   1
+5   0
+6   0
+
